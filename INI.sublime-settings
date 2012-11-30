@@ -1,6 +1,3 @@
 {
-	"extensions":
-	[
-		"info"
-	]
+  "extensions": ["info"]
 }
