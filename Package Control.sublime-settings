@@ -1,0 +1,62 @@
+{
+	"auto_upgrade_last_run": null,
+	"installed_packages":
+	[
+		"Abacus",
+		"Ant",
+		"ApacheConf.tmLanguage",
+		"AsAbove",
+		"Auto Semi-Colon",
+		"CoffeeScript",
+		"CTags",
+		"Cucumber",
+		"DocBlockr",
+		"Drupal Snippets",
+		"EditorConfig",
+		"Emmet",
+		"Gist",
+		"Git",
+		"Guard",
+		"HTML5",
+		"Indent XML",
+		"INI",
+		"Jade",
+		"jQuery",
+		"LESS",
+		"MakeExecutable",
+		"Markdown Preview",
+		"Origami",
+		"Package Control",
+		"PlainTasks",
+		"Rails Related Files",
+		"Ruby Slim",
+		"Sass",
+		"SCSS",
+		"SideBarEnhancements",
+		"SideBarGit",
+		"Stylus",
+		"sublime-closure-linter",
+		"SublimeCodeIntel",
+		"sublimelint",
+		"SublimeLinter",
+		"SublimePeek",
+		"Surround",
+		"SyncedSideBar",
+		"Terminal",
+		"Theme - Soda",
+		"TrailingSpaces",
+		"Vintage Numbers",
+		"Vintage Surround",
+		"VintageEx",
+		"Xdebug",
+		"ZenCoding"
+	],
+	"repositories":
+	[
+		"https://github.com/netpro2k/SublimeBlockCursor"
+	],
+	"repository_channels":
+	[
+		"http://sublime.wbond.net/repositories.json"
+	]
+}
